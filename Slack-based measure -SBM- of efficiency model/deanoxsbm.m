@@ -33,10 +33,3 @@ end
 theta = Z(:,n+1:end);
 
 end
-
-
-
-
-
-
-
