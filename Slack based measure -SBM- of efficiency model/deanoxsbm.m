@@ -1,3 +1,6 @@
+%
+%AUTHOR: JUAN DIAZ AMORIN
+
 function [theta] = deanoxsbm(Y)
 
 [n,s] = size(Y);
