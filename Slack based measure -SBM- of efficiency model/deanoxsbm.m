@@ -2,9 +2,7 @@
 %AUTHOR: JUAN DIAZ AMORIN
 
 function [theta] = deanoxsbm(Y)
-
 [n,s] = size(Y);
-
 Z = zeros(n,n+s);
 
 % Objective function of the BCC model: min f'x = (0*lambda - sum(s/y));
